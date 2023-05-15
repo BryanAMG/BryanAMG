@@ -1,7 +1,7 @@
 # HOLA! , SOY BRYAN 👋
 
 # 💫 About Me:
-Desarrollador Frontend, +1 año de experiencia con el manejo de la biblioteca React con conocimientos de Backend, como Node y Express, y base de datos.<br>✔ He trabajado en proyectos tanto personales como en equipo, y disfruto explorar nuevas tecnologías de manera autodidacta.<br>✔ Siempre busco aplicar las mejores prácticas, la programación funcional y la simplicidad en mi trabajo.<br>✔ Dispuesto a recibir feedback para mejorar continuamente la calidad de mis resultados y crecer como profesional.<br><br><br>
+Desarrollador Frontend, +1 año de experiencia con el manejo de la biblioteca React con conocimientos de Backend, como Node y Express, y base de datos.<br>✔ He trabajado en proyectos tanto personales como en equipo, y disfruto explorar nuevas tecnologías de manera autodidacta.<br>✔ Siempre busco aplicar las mejores prácticas, la programación funcional y la simplicidad en mi trabajo.<br>✔ Dispuesto a recibir feedback para mejorar continuamente la calidad de mis resultados y crecer como profesional.<br><br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bryan_22_99) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bryan-armando/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Bryan22Armando) 
